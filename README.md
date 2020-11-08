@@ -3,7 +3,7 @@ Check the HTTP Access Log and add the original IP that accessed the resource tha
 
 
 # usage
-perl checkAccessLogAndSettingDrop.pl accessLogFilePath count isPermanent(null or 0 or else)
+perl checkAccessLogAndSettingDrop.pl [*accessLogFilePath*] [*count*] [*isPermanent(null or 0 or else)*]
 
 
 # require
